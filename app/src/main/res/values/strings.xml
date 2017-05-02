@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CricFreaks</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="please_check_internet">No Internet</string>
+    <string name="no_data">No Data Available</string>
+    <string name="title_activity_main">CricFreaks</string>
+    <string name="title_home">Home</string>
+    <string name="title_news">News</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
